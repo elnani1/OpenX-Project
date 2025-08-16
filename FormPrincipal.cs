@@ -75,7 +75,7 @@ namespace OpenX_Interfaces
         {
             MenuLogin menuLogin = new MenuLogin();
             menuLogin.ShowDialog();
-            this.Close(); // Cierra el formulario principal al cerrar sesión
+            this.Hide(); // Cierra el formulario principal al cerrar sesión
         }
 
         private void btnGestion_Click(object sender, EventArgs e)
@@ -84,6 +84,13 @@ namespace OpenX_Interfaces
             formRegistro.ShowDialog();
 
             CargarActividadReciente();
+        }
+
+        private void btnReglamento_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormularioReglamentario formularioReglamentario = new FormularioReglamentario();
+            formularioReglamentario.ShowDialog();
         }
     }
 }

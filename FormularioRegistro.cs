@@ -44,7 +44,8 @@ namespace OpenX_Interfaces
             };
 
             // Agregar el nuevo usuario a la lista estática
-            MenuLogin.Usuarios.Add(nuevoUsuario);
+            DataBaseManager dbManager = new DataBaseManager();
+            dbManager.GuardarUsuario(nuevoUsuario);
 
             // Agregar una actividad al log
             LogManager.AgregarActividad($"Nuevo {nuevoUsuario.Rol} '{nuevoUsuario.NombreUsuario}' dado de alta.");

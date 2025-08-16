@@ -15,28 +15,21 @@ namespace OpenX_Interfaces
         public MenuLogin()
         {
             InitializeComponent();
-            CargarUsuariosIniciales();
         }
-
-        public static List <Usuario> Usuarios = new List<Usuario>();
-
-        private void CargarUsuariosIniciales()
-        {
-            Usuarios.Add(new Usuario { NombreUsuario = "admin", Contraseña = "admin123", Rol = "Administrador" });
-            Usuarios.Add(new Usuario { NombreUsuario = "usuario", Contraseña = "usuario123", Rol = "Usuario" });
-        }
+        
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string usuarioIngresado = txtUsuario.Text;
             string contraIngresada = txtContra.Text;
 
-            // Busca el usuario en la lista
-            Usuario usuarioAutenticado = Usuarios.Find(u => u.NombreUsuario == usuarioIngresado && u.Contraseña == contraIngresada);
+            //Instancia del Manager
+            DataBaseManager DbManager = new DataBaseManager();
+            Usuario usuarioAutenticado = DbManager.ValidarCredenciales(usuarioIngresado, contraIngresada);
 
             if (usuarioAutenticado != null)
             {
                 // El usuario encontrado y credenciales son validas
-                if (usuarioAutenticado.Rol == "Administrador")
+                if (usuarioAutenticado.Rol.Trim() == "Administrador")
                 {
                     MessageBox.Show("¡Bienvenido al sistema como Administrador!", "Inicio de sesión exitoso");
                     this.Hide();
@@ -47,7 +40,7 @@ namespace OpenX_Interfaces
                 {
                     MessageBox.Show("¡Bienvenido al sistema!", "Inicio de sesión exitoso");
                     this.Hide();
-                    FormPrincipal userForm = new FormPrincipal();
+                    FormSecundario userForm = new FormSecundario();
                     userForm.ShowDialog();
                 }
                 this.Close();

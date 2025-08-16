@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 
 namespace OpenX_Interfaces
 {
-    public class Usuario
-    {
-        public string NombreUsuario { get; set; }
-        public string Contraseña { get; set; }
-        public string Rol { get; set; }
-    }
-
     public static class LogManager
     {
         public static List <string> Actividades = new List <string> ();
