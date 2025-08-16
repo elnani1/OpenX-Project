@@ -71,5 +71,107 @@ namespace OpenX_Interfaces
                 }
             }
         }
+
+        public Usuario ActualizarUsuario(Usuario usuarioActualizado)
+        {
+            string sql = "UPDATE Usuarios SET Contrasena = @contrasena, Rol = @rol WHERE NombreUsuario = @nombre";
+            using (SqlConnection conexion = new SqlConnection(connectionString))
+            {
+                using (SqlCommand comando = new SqlCommand(sql, conexion))
+                {
+                    comando.Parameters.AddWithValue("@nombre", usuarioActualizado.NombreUsuario);
+                    comando.Parameters.AddWithValue("@contrasena", usuarioActualizado.Contraseña);
+                    comando.Parameters.AddWithValue("@rol", usuarioActualizado.Rol);
+
+                    try
+                    {
+                        conexion.Open();
+                        int filasAfectadas = comando.ExecuteNonQuery();
+
+                        if (filasAfectadas > 0)
+                        {
+                            return usuarioActualizado; // Retorna el usuario actualizado
+                        }
+                        else
+                        {
+                            MessageBox.Show("No se encontró el usuario para actualizar.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            return null;
+                        }
+                    }
+                    catch (SqlException ex)
+                    {
+                        MessageBox.Show("Error al actualizar el usuario: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return null;
+                    }
+                }
+            }
+        }
+
+        public List<Usuario> ObtenerTodosLosUsuarios()
+        {
+            List<Usuario> listaUsuario = new List<Usuario>();
+            string sql = "SELECT NombreUsuario, Contrasena, Rol FROM Usuarios";
+
+            using (SqlConnection conexion = new SqlConnection(connectionString))
+            {
+                using (SqlCommand comando = new SqlCommand(sql, conexion))
+                {
+                    try
+                    {
+                        conexion.Open();
+                        using (SqlDataReader reader = comando.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                Usuario usuario = new Usuario
+                                {
+                                    NombreUsuario = reader["NombreUsuario"].ToString(),
+                                    Contraseña = reader["Contrasena"].ToString(),
+                                    Rol = reader["Rol"].ToString().Trim()
+                                };
+                                listaUsuario.Add(usuario);
+                            }
+                        }
+                    }
+                    catch (SqlException ex)
+                    {
+                        MessageBox.Show("Error al obtener los usuarios: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+            return listaUsuario;
+        }
+
+        public void EliminarUsuario(string nombreUsuario)
+        {
+            string sql = "DELETE FROM Usuarios WHERE NombreUsuario = @nombreUsuario";
+
+            using (SqlConnection conexion = new SqlConnection(connectionString))
+            {
+                using (SqlCommand comando = new SqlCommand(sql, conexion))
+                {
+                    comando.Parameters.AddWithValue("@nombreUsuario", nombreUsuario);
+
+                    try
+                    {
+                        conexion.Open();
+                        int filasAfectadas = comando.ExecuteNonQuery();
+
+                        if(filasAfectadas > 0)
+                        {
+                            MessageBox.Show("Usuario eliminado correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                        else
+                        {
+                            MessageBox.Show("No se encontró el usuario para eliminar.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                    }
+                    catch (SqlException ex)
+                    {
+                        MessageBox.Show("Error al eliminar el usuario: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
     }
 }
