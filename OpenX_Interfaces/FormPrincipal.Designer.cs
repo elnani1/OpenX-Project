@@ -42,8 +42,17 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnAbrirPuerta = new System.Windows.Forms.Button();
             this.btnCerrarSesion = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.pnlMenuRetractil.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+=======
+            this.pnlActividadReciente = new System.Windows.Forms.Panel();
+            this.pnlEventos = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.pnlMenuRetractil.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.pnlActividadReciente.SuspendLayout();
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.SuspendLayout();
             // 
             // pnlMenuRetractil
@@ -140,9 +149,15 @@
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Default;
+<<<<<<< HEAD
             this.pictureBox1.Location = new System.Drawing.Point(55, 115);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(264, 204);
+=======
+            this.pictureBox1.Location = new System.Drawing.Point(64, 112);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(255, 204);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
@@ -164,7 +179,11 @@
             this.label1.BackColor = System.Drawing.Color.Black;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(90, 362);
+=======
+            this.label1.Location = new System.Drawing.Point(90, 344);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(203, 20);
             this.label1.TabIndex = 14;
@@ -175,7 +194,11 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.WhiteSmoke;
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(106, 397);
+=======
+            this.label2.Location = new System.Drawing.Point(106, 379);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(174, 25);
             this.label2.TabIndex = 15;
@@ -188,7 +211,11 @@
             this.btnAbrirPuerta.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnAbrirPuerta.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAbrirPuerta.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.btnAbrirPuerta.Location = new System.Drawing.Point(111, 436);
+=======
+            this.btnAbrirPuerta.Location = new System.Drawing.Point(111, 418);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.btnAbrirPuerta.Name = "btnAbrirPuerta";
             this.btnAbrirPuerta.Size = new System.Drawing.Size(169, 42);
             this.btnAbrirPuerta.TabIndex = 16;
@@ -210,6 +237,39 @@
             this.btnCerrarSesion.UseVisualStyleBackColor = false;
             this.btnCerrarSesion.Click += new System.EventHandler(this.btnCerrarSesion_Click);
             // 
+<<<<<<< HEAD
+=======
+            // pnlActividadReciente
+            // 
+            this.pnlActividadReciente.BackColor = System.Drawing.Color.DimGray;
+            this.pnlActividadReciente.Controls.Add(this.pnlEventos);
+            this.pnlActividadReciente.Controls.Add(this.label3);
+            this.pnlActividadReciente.Location = new System.Drawing.Point(64, 490);
+            this.pnlActividadReciente.Name = "pnlActividadReciente";
+            this.pnlActividadReciente.Size = new System.Drawing.Size(255, 171);
+            this.pnlActividadReciente.TabIndex = 18;
+            // 
+            // pnlEventos
+            // 
+            this.pnlEventos.AutoScroll = true;
+            this.pnlEventos.BackColor = System.Drawing.Color.White;
+            this.pnlEventos.Location = new System.Drawing.Point(30, 23);
+            this.pnlEventos.Name = "pnlEventos";
+            this.pnlEventos.Size = new System.Drawing.Size(199, 130);
+            this.pnlEventos.TabIndex = 1;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.label3.Location = new System.Drawing.Point(56, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(139, 20);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Actividad Reciente";
+            // 
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -217,6 +277,10 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(384, 761);
             this.ControlBox = false;
+<<<<<<< HEAD
+=======
+            this.Controls.Add(this.pnlActividadReciente);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.Controls.Add(this.btnCerrarSesion);
             this.Controls.Add(this.btnAbrirPuerta);
             this.Controls.Add(this.label2);
@@ -232,6 +296,11 @@
             this.Text = "Menú";
             this.pnlMenuRetractil.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+<<<<<<< HEAD
+=======
+            this.pnlActividadReciente.ResumeLayout(false);
+            this.pnlActividadReciente.PerformLayout();
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -250,6 +319,12 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnAbrirPuerta;
         private System.Windows.Forms.Button btnCerrarSesion;
+<<<<<<< HEAD
+=======
+        private System.Windows.Forms.Panel pnlActividadReciente;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Panel pnlEventos;
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
         private System.Windows.Forms.Button btnReglamento;
     }
 }

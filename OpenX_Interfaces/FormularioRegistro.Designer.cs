@@ -94,11 +94,19 @@
             // 
             // txtContraR
             // 
+<<<<<<< HEAD
             this.txtContraR.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtContraR.Location = new System.Drawing.Point(42, 336);
             this.txtContraR.Name = "txtContraR";
             this.txtContraR.PasswordChar = '*';
             this.txtContraR.Size = new System.Drawing.Size(299, 22);
+=======
+            this.txtContraR.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContraR.Location = new System.Drawing.Point(42, 336);
+            this.txtContraR.Name = "txtContraR";
+            this.txtContraR.PasswordChar = '*';
+            this.txtContraR.Size = new System.Drawing.Size(299, 23);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.txtContraR.TabIndex = 4;
             // 
             // label3
@@ -114,12 +122,21 @@
             // 
             // txtConfirContra
             // 
+<<<<<<< HEAD
             this.txtConfirContra.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtConfirContra.Location = new System.Drawing.Point(42, 405);
             this.txtConfirContra.Name = "txtConfirContra";
             this.txtConfirContra.PasswordChar = '*';
             this.txtConfirContra.Size = new System.Drawing.Size(299, 22);
             this.txtConfirContra.TabIndex = 5;
+=======
+            this.txtConfirContra.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtConfirContra.Location = new System.Drawing.Point(42, 405);
+            this.txtConfirContra.Name = "txtConfirContra";
+            this.txtConfirContra.PasswordChar = '*';
+            this.txtConfirContra.Size = new System.Drawing.Size(299, 23);
+            this.txtConfirContra.TabIndex = 6;
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // 
             // label4
             // 
@@ -182,12 +199,20 @@
             // 
             this.cmbRol.BackColor = System.Drawing.Color.White;
             this.cmbRol.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.cmbRol.ForeColor = System.Drawing.Color.Black;
+=======
+            this.cmbRol.ForeColor = System.Drawing.Color.OrangeRed;
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.cmbRol.FormattingEnabled = true;
             this.cmbRol.Items.AddRange(new object[] {
             "Usuario",
             "Administrador"});
+<<<<<<< HEAD
             this.cmbRol.Location = new System.Drawing.Point(137, 656);
+=======
+            this.cmbRol.Location = new System.Drawing.Point(143, 656);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.cmbRol.Name = "cmbRol";
             this.cmbRol.Size = new System.Drawing.Size(117, 23);
             this.cmbRol.TabIndex = 13;

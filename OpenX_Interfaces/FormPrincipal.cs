@@ -20,8 +20,31 @@ namespace OpenX_Interfaces
         public FormPrincipal()
         { 
             InitializeComponent();
+<<<<<<< HEAD
             pnlMenuRetractil.Width = anchoMenuColapsado;            
         }        
+=======
+            pnlMenuRetractil.Width = anchoMenuColapsado;
+            CargarActividadReciente();
+        }
+
+        public void CargarActividadReciente()
+        {
+            pnlEventos.Controls.Clear();
+
+            int top = 10;
+            foreach (var evento in LogManager.Actividades)
+            {
+                Label lblEvento = new Label();
+                lblEvento.Text = evento;
+                lblEvento.AutoSize = true;
+                lblEvento.Location = new Point(10, top);
+
+                pnlEventos.Controls.Add(lblEvento);
+                top += 25; // Espacio entre eventos
+            }
+        }
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
 
         private void timerMenu_Tick(object sender, EventArgs e)
         {
@@ -64,6 +87,11 @@ namespace OpenX_Interfaces
         {
             FormularioRegistro formRegistro = new FormularioRegistro();
             formRegistro.ShowDialog();
+<<<<<<< HEAD
+=======
+
+            CargarActividadReciente();
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
         }
 
         private void btnReglamento_Click(object sender, EventArgs e)

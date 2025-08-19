@@ -84,7 +84,10 @@
     <Compile Include="LogManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="ReglaDeAcceso.cs" />
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
     <Compile Include="Usuario.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

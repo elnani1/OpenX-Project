@@ -37,7 +37,10 @@
             this.btnEliminarRegla = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnSalir = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.btnActualizar = new System.Windows.Forms.Button();
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             ((System.ComponentModel.ISupportInitialize)(this.dgvReglas)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -45,24 +48,36 @@
             // cbxDispositivos
             // 
             this.cbxDispositivos.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.cbxDispositivos.ForeColor = System.Drawing.Color.Black;
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.cbxDispositivos.FormattingEnabled = true;
             this.cbxDispositivos.Location = new System.Drawing.Point(227, 580);
             this.cbxDispositivos.Name = "cbxDispositivos";
             this.cbxDispositivos.Size = new System.Drawing.Size(121, 25);
             this.cbxDispositivos.TabIndex = 0;
+<<<<<<< HEAD
             this.cbxDispositivos.Text = "Dispositivo - 001";
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // 
             // cbxUsuarios
             // 
             this.cbxUsuarios.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.cbxUsuarios.ForeColor = System.Drawing.Color.Black;
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.cbxUsuarios.FormattingEnabled = true;
             this.cbxUsuarios.Location = new System.Drawing.Point(46, 580);
             this.cbxUsuarios.Name = "cbxUsuarios";
             this.cbxUsuarios.Size = new System.Drawing.Size(121, 25);
             this.cbxUsuarios.TabIndex = 1;
+<<<<<<< HEAD
             this.cbxUsuarios.Text = "Usuario";
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // 
             // txtHorario
             // 
@@ -78,7 +93,11 @@
             this.btnGuardarRegla.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnGuardarRegla.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGuardarRegla.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.btnGuardarRegla.Location = new System.Drawing.Point(29, 681);
+=======
+            this.btnGuardarRegla.Location = new System.Drawing.Point(67, 681);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.btnGuardarRegla.Name = "btnGuardarRegla";
             this.btnGuardarRegla.Size = new System.Drawing.Size(100, 23);
             this.btnGuardarRegla.TabIndex = 3;
@@ -95,7 +114,11 @@
             this.dgvReglas.Name = "dgvReglas";
             this.dgvReglas.ReadOnly = true;
             this.dgvReglas.Size = new System.Drawing.Size(302, 150);
+<<<<<<< HEAD
             this.dgvReglas.TabIndex = 17;
+=======
+            this.dgvReglas.TabIndex = 5;
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // 
             // btnEliminarRegla
             // 
@@ -103,7 +126,11 @@
             this.btnEliminarRegla.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnEliminarRegla.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminarRegla.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.btnEliminarRegla.Location = new System.Drawing.Point(268, 681);
+=======
+            this.btnEliminarRegla.Location = new System.Drawing.Point(227, 681);
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.btnEliminarRegla.Name = "btnEliminarRegla";
             this.btnEliminarRegla.Size = new System.Drawing.Size(100, 23);
             this.btnEliminarRegla.TabIndex = 6;
@@ -133,6 +160,7 @@
             this.btnSalir.UseVisualStyleBackColor = false;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
+<<<<<<< HEAD
             // btnActualizar
             // 
             this.btnActualizar.BackColor = System.Drawing.Color.OrangeRed;
@@ -147,6 +175,8 @@
             this.btnActualizar.UseVisualStyleBackColor = false;
             this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
             // 
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             // FormularioReglamentario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -154,7 +184,10 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(384, 761);
             this.ControlBox = false;
+<<<<<<< HEAD
             this.Controls.Add(this.btnActualizar);
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnEliminarRegla);
@@ -186,6 +219,9 @@
         private System.Windows.Forms.Button btnEliminarRegla;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnSalir;
+<<<<<<< HEAD
         private System.Windows.Forms.Button btnActualizar;
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
     }
 }

@@ -11,7 +11,11 @@ namespace OpenX_Interfaces
 {
     public class DataBaseManager
     {
+<<<<<<< HEAD
         private string connectionString = "Data Source=CISCO1;Initial Catalog=OpenX;Integrated Security=True";
+=======
+        private string connectionString = "Data Source=User5594-PC\\SQLEXPRESS;Initial Catalog=OpenX;Integrated Security=True";
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
 
         public void GuardarUsuario(Usuario nuevoUsuario)
         {
@@ -173,6 +177,7 @@ namespace OpenX_Interfaces
                 }
             }
         }
+<<<<<<< HEAD
 
         public void GuardarRegla (ReglaDeAcceso nuevaRegla)
         {
@@ -282,5 +287,7 @@ namespace OpenX_Interfaces
                 }
             }
         }
+=======
+>>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
     }
 }
