@@ -1,0 +1,56 @@
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe.config
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.pdb
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.AssemblyReference.cache
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.Properties.Resources.resources
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.GenerateResource.cache
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.CoreCompileInputs.cache
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.pdb
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\Images\ChatGPT Image 8 ago 2025, 07_52_29 p.m..png
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\Images\OpenX_Logo2.png
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.MenuLogin.resources
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormPrincipal.resources
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.g.resources
+C:\DSM2B Dani\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioRegistro.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\Images\ChatGPT Image 8 ago 2025, 07_52_29 p.m..png
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\Images\OpenX_Logo2.png
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe.config
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.pdb
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.AssemblyReference.cache
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.g.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.MenuLogin.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormPrincipal.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioRegistro.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioReglamentario.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.Properties.Resources.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.GenerateResource.cache
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.CoreCompileInputs.cache
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.pdb
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormSecundario.resources
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.dll
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.xml
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_In.1EEFF6AB.Up2Date
+D:\OpenX_Interfaces-v2\OpenX_Interfaces\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe.config
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\Images\ChatGPT Image 8 ago 2025, 07_52_29 p.m..png
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\Images\OpenX_Logo2.png
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe.config
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.pdb
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.g.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.MenuLogin.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormPrincipal.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormSecundario.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioRegistro.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioReglamentario.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.Properties.Resources.resources
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.GenerateResource.cache
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_In.1EEFF6AB.Up2Date
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe
+C:\Users\Fernex\Downloads\OpenX_Interfaces-v3-20250819T005450Z-1-001\OpenX_Interfaces-v3\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.pdb

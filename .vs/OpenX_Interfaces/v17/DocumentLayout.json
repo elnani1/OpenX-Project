@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formularioreglamentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formularioreglamentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formularioreglamentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formularioreglamentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|c:\\users\\fernex\\downloads\\openx_interfaces-v3-20250819t005450z-1-001\\openx_interfaces-v3\\openx_interfaces\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|c:\\users\\fernex\\downloads\\openx_interfaces-v3-20250819t005450z-1-001\\openx_interfaces-v3\\openx_interfaces\\regladeacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\regladeacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\openx_interfaces\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C90FB5-C473-456E-82A4-8C5074DA16C0}|OpenX_Interfaces\\OpenX_Interfaces.csproj|solutionrelative:openx_interfaces\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReglaDeAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\ReglaDeAcceso.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\ReglaDeAcceso.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\ReglaDeAcceso.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\ReglaDeAcceso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:15:07.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Usuario.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Usuario.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:37:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSecundario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormSecundario.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormSecundario.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\FormSecundario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:15:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSecundario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormSecundario.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormSecundario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OpenX_Interfaces\\FormSecundario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:13:54.012Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioReglamentario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioReglamentario.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormularioReglamentario.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioReglamentario.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\FormularioReglamentario.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:55:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioReglamentario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioReglamentario.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormularioReglamentario.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioReglamentario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OpenX_Interfaces\\FormularioReglamentario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:44:28.985Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioRegistro.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormularioRegistro.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioRegistro.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\FormularioRegistro.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwFMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T01:00:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Actividad.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\Actividad.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Actividad.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\Actividad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:44:45.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\DatabaseManager.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:10:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioRegistro.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormularioRegistro.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormularioRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OpenX_Interfaces\\FormularioRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:43:04.545Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormPrincipal.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\FormPrincipal.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:01:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OpenX_Interfaces\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:46:51.411Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "OpenX_Interfaces\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:32:35.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\Form1.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwCgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:24:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\LogManager.cs",
+              "RelativeDocumentMoniker": "OpenX_Interfaces\\LogManager.cs",
+              "ToolTip": "C:\\Users\\Fernex\\Downloads\\OpenX_Interfaces-v3-20250819T005450Z-1-001\\OpenX_Interfaces-v3\\OpenX_Interfaces\\LogManager.cs",
+              "RelativeToolTip": "OpenX_Interfaces\\LogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:29:39.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
