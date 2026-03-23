@@ -98,3 +98,23 @@ E:\OpenX-Project-v4\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe
 E:\OpenX-Project-v4\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.pdb
 =======
 >>>>>>> 3b9fa4ab6716183f5cf4bfa650410cacb98841a2
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\Images\ChatGPT Image 8 ago 2025, 07_52_29 p.m..png
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\Images\OpenX_Logo2.png
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe.config
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.exe
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\OpenX_Interfaces.pdb
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.g.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.MenuLogin.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormPrincipal.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormSecundario.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioRegistro.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.FormularioReglamentario.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.Properties.Resources.resources
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_In.1EEFF6AB.Up2Date
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.exe
+C:\Users\USER\Desktop\OpenX-Project\OpenX_Interfaces\obj\Debug\OpenX_Interfaces.pdb
